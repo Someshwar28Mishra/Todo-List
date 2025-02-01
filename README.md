@@ -1,7 +1,3 @@
-Here’s the updated README without the project structure:
-
----
-
 # Todo List Application
 
 ## Overview
